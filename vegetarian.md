@@ -1,3 +1,0 @@
-Carottes
-Œufs
-Chou-Fleur
