@@ -1,0 +1,85 @@
+
+ 
+img {
+    max-width: 50%;
+    height: auto;
+    margin: auto;
+    width: 50%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333333;
+    background-color: #f1f1f1;
+  }
+  
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333333;
+    margin: 0;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    font-family: sans-serif;
+    font-size: 16px;
+    margin: 8px 0;
+}
+
+  
+
+#legumes {
+    color: red;
+    font-style: italic;
+}
+
+#salade {
+    margin: auto;
+    width: 50%;
+    background-color: antiquewhite;
+    font-size: larger;
+
+}
+
+p {
+    font-size: larger;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+div {
+    margin: auto;
+    width: 50%;
+    background-color: antiquewhite;
+    font-size: larger;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th {
+    background-color: #333;
+    color: white;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  td {
+    border: 1px solid #333;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  img {
+    height: auto;
+    max-width: 100%;
+  }
+  
